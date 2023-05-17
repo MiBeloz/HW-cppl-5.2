@@ -5,7 +5,7 @@
 
 int main() {
 	setlocale(LC_ALL, "ru");
-	std::cout << "Таблица\n" << std::endl;
+	std::cout << "\tТаблица\n" << std::endl;
 	
 	try {
 		size_t rows = 3;
